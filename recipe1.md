@@ -1,9 +1,10 @@
 # White Pasta
 
 ## Ingredients
-Noodles
-Butter
-Shakey Cheese
+- Noodles
+- Butter
+- Shakey Cheese
+- Pepper
 
 ##Directions
-Boil pasta, drain, add dat butter and cheese
+- Boil pasta, drain, add dat butter and cheese
